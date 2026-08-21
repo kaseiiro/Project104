@@ -6,4 +6,4 @@ Independent reconstruction of the authentication algorithm used in Siemens/Infin
 
 The code is documented inline.
 
-To perform authentication, you need the master key value, which is normally kept secret by the card issuer. You also need the LFSR tap positions, nonlinear-function tap positions, and counter modulus values.
+To perform authentication, you need the master key value, which is normally kept secret by the card issuer. You also need the LFSR feedback tap positions, nonlinear-function tap positions, and counter modulus values.
