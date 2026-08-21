@@ -3,7 +3,7 @@ example_usage.py
 
 Minimal runnable example for ResponseGenerator.
 
-Edit the PARAMETERS section and run:
+Edit the secret.py file and run:
 
     python example_usage.py
 
